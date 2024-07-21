@@ -1,4 +1,4 @@
-# Trading Analysis Extension
+# Trading Analysis Chrome Extension
 
 ## Overview
 
